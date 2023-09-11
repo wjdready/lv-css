@@ -118,7 +118,7 @@ UI_STYLE_DEF(myclass, UI_THEME_DEFAULT, SELECTOR4, {
 
 All the implementations are listed below
 
-```json
+```
 {
     "width": "lv_style_set_width",
     "min-width": "lv_style_set_min_width",
