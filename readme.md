@@ -103,7 +103,7 @@ It will generate:
 
 ```c
 #define SELECTOR0 LV_PART_MAIN | LV_STATE_DEFAULT
-UI_STYLE_DEF(myclass, UI_THEME_DEFAULT, SELECTOR4, {
+UI_STYLE_DEF(myclass, UI_THEME_DEFAULT, SELECTOR0, {
     lv_style_set_flex_flow(this, LV_FLEX_FLOW_COLUMN);
     lv_style_set_flex_main_place(this, LV_FLEX_ALIGN_SPACE_BETWEEN);
     lv_style_set_flex_cross_place(this, LV_FLEX_ALIGN_CENTER);
