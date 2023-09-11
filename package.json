@@ -8,7 +8,6 @@
         "test": "node main.js"
     },
     "dependencies": {
-        "chroma-js": "^2.4.2",
         "css-selector-parser": "^2.3.2",
         "cssom": "^0.5.0",
         "parse-css": "^0.1.0",
