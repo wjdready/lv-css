@@ -8,9 +8,8 @@
         "test": "node main.js"
     },
     "dependencies": {
-        "css-selector-parser": "^2.3.2",
         "cssom": "^0.5.0",
-        "parse-css": "^0.1.0",
+        "css-selector-parser": "^2.3.2",
         "polished": "^4.2.2",
         "yargs": "^17.7.2"
     }
