@@ -1,0 +1,24 @@
+lv_btn, .mybtn {
+    background-color: red;
+    border-width: 2;
+    border-color: black;
+    outline-width: 0;
+    outline-color: blueviolet;
+    width: 50;
+    height: 20;
+}
+
+lv_btn[state = pressed] {
+    outline-width: 5;
+    width: 55;
+    height: 25;
+}
+
+.mybtn {
+    background-color: gray;
+}
+
+.mybtn[state = focused] {
+    background-color: blue;
+    outline-color: rgba(0, 128, 0, 0.671);
+}
